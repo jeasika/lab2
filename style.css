@@ -1,0 +1,22 @@
+nav {
+  float: left;
+  width: 200px;
+  height: 700px;
+}
+
+.section-container{
+  height: 700px;
+}
+
+aside{
+  float: right;
+  width: 200px;
+  height: 400px;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  clear: both;
+}
